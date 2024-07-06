@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="62" viewBox="0 0 52 62">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_149304" data-name="Rectangle 149304" width="40" height="40" transform="translate(34 12)" fill="#3eb0ca" stroke="#4a5664" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_164911" data-name="Group 164911" transform="translate(-28 -12)">
+    <text id="Logout" transform="translate(54 70)" fill="#3eb0ca" font-size="15" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-25" y="0">Logout</tspan></text>
+    <g id="Mask_Group_497" data-name="Mask Group 497" clip-path="url(#clip-path)">
+      <g id="sign-out-alt" transform="translate(34.213 12)">
+        <path id="Path_85438" data-name="Path 85438" d="M19.127,25a1.667,1.667,0,0,0-1.667,1.667v5a5,5,0,0,1-5,5H8.333a5,5,0,0,1-5-5V8.333a5,5,0,0,1,5-5H12.46a5,5,0,0,1,5,5v5a1.667,1.667,0,1,0,3.333,0v-5A8.343,8.343,0,0,0,12.46,0H8.333A8.343,8.343,0,0,0,0,8.333V31.667A8.343,8.343,0,0,0,8.333,40H12.46a8.343,8.343,0,0,0,8.333-8.333v-5A1.667,1.667,0,0,0,19.127,25Z" fill="#3eb0ca"/>
+        <path id="Path_85439" data-name="Path 85439" d="M38.112,16.465,30.468,8.822a1.667,1.667,0,1,0-2.357,2.357l7.105,7.1L10,18.333a1.667,1.667,0,1,0,0,3.333h0l25.313-.05-7.2,7.2a1.667,1.667,0,1,0,2.357,2.357l7.643-7.644a5,5,0,0,0,0-7.07Z" fill="#3eb0ca"/>
+      </g>
+    </g>
+  </g>
+</svg>
