@@ -21,4 +21,7 @@ class AppImages {
       "${imagesPath}settings_unselected.svg";
   static String appLogo = "${imagesPath}icons8-github.svg";
   static String backgroundImage = "${imagesPath}background_image.png";
+  static String sortIcon = "${imagesPath}sort.svg";
+  static String searchIcon = "${imagesPath}Search.svg";
+  static String copyIcon = "${imagesPath}copy.svg";
 }

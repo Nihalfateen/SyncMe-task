@@ -53,7 +53,7 @@ class AppTheme {
         ),
         titleMedium: TextStyle(
           color: AppColors.textColor,
-          fontWeight: FontWeight.w400,
+          fontWeight: FontWeight.bold,
           fontFamily: "Poppins",
           fontSize: 20.sp,
         )),
